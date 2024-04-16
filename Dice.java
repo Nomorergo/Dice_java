@@ -1,7 +1,7 @@
 import  java.util.Random;
 class Dice {
 
-	static int count; // number of dices created
+	
 	
 	byte face;
 	
